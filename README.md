@@ -2,4 +2,4 @@
 Just another repoistory
 
 Hello!
-This is my first time using Git hub.
+This is my first time using Git hub!
